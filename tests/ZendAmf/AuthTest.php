@@ -15,7 +15,7 @@ use ZendAmf\Value;
 use ZendAmf\Value\Messaging;
 use ZendAmf\Request;
 use Zend\Acl\Role;
-use Zend\Amf;
+use ZendAmf;
 use Zend\Authentication;
 
 /**

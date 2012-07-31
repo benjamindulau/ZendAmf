@@ -10,7 +10,7 @@
 
 namespace ZendAmfTest;
 
-use Zend\Amf;
+use ZendAmf;
 use ZendAmf\Parser;
 use ZendAmf\Value;
 use ZendAmf\Request;
